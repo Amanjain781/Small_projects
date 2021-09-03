@@ -19,5 +19,11 @@ These are some Beginner projects and easy to start and i was started my journey 
 
 ![color_picker_2](https://user-images.githubusercontent.com/56019496/131988605-9d42743a-6f7e-479d-8b73-b20a8721e40e.png)
 
+
+6. Facial Landmarks: In this project Facial_landmarks are shown in real time using dlib library, python and Opencv. It also shows you FPS(Frame per second) rate.
+
+![face_landmarks](https://user-images.githubusercontent.com/56019496/131992839-81f40cc7-cfaa-43b0-a445-9b5f6a591e3b.png)
+
+
  
 
